@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<br>🎯 Passionate about converting data into insights and building frameworks for decision-making.<br>🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools.<br>👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.<br>🌱 I’m currently learning Machine Learning and Python.<br>⚡ Fun fact - I m also a cook who can play a guitar!
+<br>🎯 Passionate about converting data into insights and building frameworks for decision-making.<br>🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools.<br>👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.<br>🌱 I’m also learning Machine Learning and Python.<br>⚡ Fun fact - I m also a cook who can play a guitar!
 
 
 ## 🌐 Socials:
